@@ -1,0 +1,33 @@
+body{
+    background-color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_div{
+    background-color: gold;
+    color: chocolate;
+}
+
+.header_div p{
+color:rgb(139, 139, 139);
+font-size: 12px;
+font-weight: bold;
+font-family:sans-serif;
+}
+
+.main_div button{
+width:130;
+margin-top: 30;
+font-weight: bold;
+}
+
+.footer{
+    position:fixed;
+    color:rgb(139, 139, 139);
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color: rgb(252, 230, 215);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(139, 139, 139);
+}
